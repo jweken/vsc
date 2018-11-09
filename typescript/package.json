@@ -1,0 +1,15 @@
+{
+  "name": "je-ts",
+  "description": "A project for testing TypeScript",
+  "authors": "J.W.Eken",
+  "version": "1.0.0",
+  "main": "dist\\main.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.12.0",
+    "tslint": "^5.8.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "peerDependencies": {}
+}
