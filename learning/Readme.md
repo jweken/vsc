@@ -1,6 +1,8 @@
 # Learning
 
-[Info](##Info)
+## Content
+
+- [**Info**](##Info)
 
 ## Remarks
 

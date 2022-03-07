@@ -1,6 +1,5 @@
 {
     "editor.fontSize": 16,
-    "git.path": "https://github.com/jweken/vsc",
     "files.autoSave": "onFocusChange",
 
 }
